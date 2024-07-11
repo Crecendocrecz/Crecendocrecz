@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Crecendocrecz
-- 👀 I’m interested in software programming
+- 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning git
 - 💞️ I’m looking to collaborate on any community that is helpful for quick progress
 - 📫 How to reach me email(godswillojukwu1@gmail.Com)
